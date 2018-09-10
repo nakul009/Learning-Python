@@ -40,8 +40,7 @@ else:
     print("I am not using it")
 
 
-
-    # Loops in Python for, while #
+# Loops in Python for, while #
 for i in range(0, 5):
     print("Hey")
 x = [10, 20, 30]
